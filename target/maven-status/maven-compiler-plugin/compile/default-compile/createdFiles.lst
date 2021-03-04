@@ -1,5 +1,0 @@
-com\wuwang\ebookshare\utils\GetConnection.class
-com\wuwang\ebookshare\DAO\EbookDAO.class
-com\wuwang\ebookshare\utils\EbooksFindCondition.class
-com\wuwang\ebookshare\service\EbookService.class
-com\wuwang\ebookshare\pojo\Ebook.class
